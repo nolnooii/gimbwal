@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        image: "C:\Users\Hype G12\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\6194740591150088473_121.jpg"
     },
     {
         text: "pls klik yg kiri",
@@ -160,3 +160,4 @@ const handleButtonDodge = (e) => {
 noBtn.addEventListener('mouseover', handleButtonDodge);
 noBtn.addEventListener('touchstart', handleButtonDodge, { passive: false });
 noBtn.addEventListener('touchmove', (e) => e.preventDefault(), { passive: false });
+
